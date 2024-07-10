@@ -1,0 +1,12 @@
+<RunSettings>
+  <DataCollectionRunSettings>
+    <DataCollectors>
+      <DataCollector friendlyName="XPlat Code Coverage">
+        <Configuration>
+          <ExcludeByFile>**/Program.cs</ExcludeByFile>
+          <!-- You can add more patterns to exclude other files if needed -->
+        </Configuration>
+      </DataCollector>
+    </DataCollectors>
+  </DataCollectionRunSettings>
+</RunSettings>
